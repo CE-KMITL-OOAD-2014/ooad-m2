@@ -1,0 +1,6 @@
+{
+ "name": "ooad-m2",
+ "dependencies": {
+   "request": "*"
+ }
+}
